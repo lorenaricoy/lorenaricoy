@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm currently studying at coltec
+- I'm currently learning HTML, CSS, C# and Java
+- How to reach me: lricoymartins@gmail.com
 
 <!--
 **lorenaricoy/lorenaricoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
