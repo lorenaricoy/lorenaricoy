@@ -3,7 +3,7 @@
 - I'm currently learning HTML, CSS, C# and Java
 - How to reach me: lricoymartins@gmail.com
 
-<a href="https://github.com/lorenaricoy"><img alt="Lorena Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorBarrosoAlmeida&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" /></a> <a href="https://github.com/lorenaricoy"><img alt="Igor Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBarrosoAlmeida&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1115" />
+<a href="https://github.com/lorenaricoy"><img alt="Lorena Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaricoy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1115" /></a> <a href="https://github.com/lorenaricoy"><img alt="Igor Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaricoy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1115" />
 </a>
 
 <!--
